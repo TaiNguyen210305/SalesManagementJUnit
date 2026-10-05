@@ -1,0 +1,15 @@
+﻿# NetBeans
+nbactions.xml
+nb-configuration.xml
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Maven
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
